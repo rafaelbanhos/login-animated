@@ -26,7 +26,7 @@ class InputField extends StatelessWidget {
           hintText: hint,
           hintStyle: TextStyle(
             color: Colors.white,
-            fontSize: 14
+            fontSize: 16
           ),
           contentPadding: EdgeInsets.only(
             top: 30,
