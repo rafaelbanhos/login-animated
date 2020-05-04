@@ -39,6 +39,7 @@ class _LoginScreenState extends State<LoginScreen>
           padding: EdgeInsets.zero,
           children: <Widget>[
             Stack(
+              alignment: Alignment.bottomCenter,
               children: <Widget>[
                 Column(
                   children: <Widget>[
