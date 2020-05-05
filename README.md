@@ -2,12 +2,6 @@ Login Animated with list view animated
 
 A beautiful login screen animated and list view animated.
 
-Buy me a cup of Coffee😁
-
-Bitcoin => 16qBRw9DnN3gjbhQGYiLvJ2HADJFefjM65
-
-Show some ❤️ and ⭐️ the repo.
-
 
 ![Alt text](https://github.com/rafaelbanhos/login-animated/blob/master/images/print2.jpg)
 
